@@ -7,5 +7,11 @@
 	</classpathentry>
 	<classpathentry kind="src" path="Unidad1_arreglos_unidimensionales"/>
 	<classpathentry kind="src" path="Unidad1_programacion_orientada_objetos"/>
+	<classpathentry kind="src" path="Unidad1_examen_práctico"/>
+	<classpathentry kind="src" path="Unidad1_polimorfismo_abstracta_Interfaz"/>
+	<classpathentry kind="src" path="Unidad2_ArreglosBidimensionales"/>
+	<classpathentry kind="src" path="Unidad2_Recursividad"/>
+	<classpathentry kind="src" path="Unidad2_Problemas"/>
+	<classpathentry kind="src" path="Unidad2_ClaseVector"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -1,4 +1,4 @@
-package ejerciciosArreglos;
+package ejercicioMostrarNumero;
 
 public class MostrarNumerosOpcion1 {
 

@@ -5,6 +5,7 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="src" path="Unidad1"/>
+	<classpathentry kind="src" path="Unidad1_arreglos_unidimensionales"/>
+	<classpathentry kind="src" path="Unidad1_programacion_orientada_objetos"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

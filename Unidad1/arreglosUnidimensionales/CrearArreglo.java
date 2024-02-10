@@ -9,7 +9,7 @@ public class CrearArreglo {
         arregloE[1] = 6;
         arregloE[2] = 8;
         
-        System.out.println(arregloE[0]);
+        System.out.println(arregloE[1]);
 	}
 
 }

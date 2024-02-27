@@ -14,5 +14,6 @@
 	<classpathentry kind="src" path="Unidad2_Problemas"/>
 	<classpathentry kind="src" path="Unidad2_ClaseVector"/>
 	<classpathentry kind="src" path="Unidad2_Evaluacion_Valdiviezo"/>
+	<classpathentry kind="src" path="Unidad3_Ordenamiento"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

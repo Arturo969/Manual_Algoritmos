@@ -25,7 +25,8 @@ public class ShellSort {
 		System.out.println("Arreglo ordenado: ");
 		shell(arreglo, n);
 		mostrar(arreglo);
-
+		
+		scan.close();
 	}
 	public static void shell(int arr[], int n) 
 	{
